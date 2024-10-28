@@ -1,0 +1,257 @@
+sample,title,age,AGE,biological source,cancer specific survival,cell type,cre-driver,genotype,grade,indexes,intravesical therapy,invasiveness,OS,progression,recurrence,SEX,stage,strain,OS_time,systemic chemo,OS_unit
+GSM340537,Control C010,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340538,Control C017,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340539,Control C029,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340540,Control C030,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340541,Control C040,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340542,Vav-Control MPP RNA-seq 1,8-weeks,NA,NA,NA,Multipotent Progenitor Cells (MPPs),Vav-CRE,Wild-type,NA,CGTCGCT,NA,NA,NA,NA,NA,NA,NA,C57BL/6,NA,NA,month
+GSM340543,Control C044,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340544,Control C045,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340545,Control C051,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340546,Control C072,NA,NA,normal bladder mucosae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340547,Surrounding BS017,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340548,Surrounding BS038,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340549,Surrounding BS039,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340550,Surrounding BS040,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340551,Surrounding BS041,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340552,Surrounding BS044,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340553,Surrounding BS045,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340554,Surrounding BS047,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340555,Surrounding BS048,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340556,Surrounding BS051,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340557,Surrounding BS052,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340558,Surrounding BS054,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340559,Surrounding BS059,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340560,Surrounding BS063,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340561,Surrounding BS065,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340562,Surrounding BS068,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340563,Surrounding BS073,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340564,Surrounding BS075,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340565,Surrounding BS080,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340566,Surrounding BS081,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340567,Surrounding BS083,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340568,Surrounding BS084,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340569,Surrounding BS085,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340570,Surrounding BS086,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340571,Surrounding BS087,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340572,Surrounding BS089,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340573,Surrounding BS091,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340574,Surrounding BS093,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340575,Surrounding BS095,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340576,Surrounding BS097,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340577,Surrounding BS100,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340578,Surrounding BS101,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340579,Surrounding BS104,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340580,Surrounding BS106,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340581,Surrounding BS107,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340582,Surrounding BS108,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340583,Surrounding BS109,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340584,Surrounding BS111,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340585,Surrounding BS113,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340586,Surrounding BS115,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340587,Surrounding BS117,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340588,Surrounding BS119,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340589,Surrounding BS123,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340590,Surrounding BS125,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340591,Surrounding BS126,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340592,Surrounding BS129,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340593,Surrounding BS130,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340594,Surrounding BS131,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340595,Surrounding BS134,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340596,Surrounding BS135,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340597,Surrounding BS142,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340598,Surrounding BS150,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340599,Surrounding BS168,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340600,Surrounding BS169,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340601,Surrounding BS170,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340602,Surrounding BS301,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340603,Surrounding BS302,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340604,Surrounding BS303,NA,NA,bladder mucosae surrounding cancer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340605,Primary bladder cancer BT001,NA,78,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,18.17,No,month
+GSM340606,Primary bladder cancer BT002,NA,54,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,F,TaN0M0,NA,136.97,No,month
+GSM340607,Primary bladder cancer BT003,NA,37,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,136.37,No,month
+GSM340608,Primary bladder cancer BT004,NA,72,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,26.9,No,month
+GSM340609,Primary bladder cancer BT005,NA,68,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,87.07,No,month
+GSM340610,Primary bladder cancer BT006,NA,80,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,15.3,No,month
+GSM340611,Primary bladder cancer BT007,NA,67,primary bladder cancer,death,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,18.53,No,month
+GSM340612,Primary bladder cancer BT008,NA,58,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,129.93,Yes,month
+GSM340613,Primary bladder cancer BT009,NA,77,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,T3bN0M0,NA,12.57,No,month
+GSM340614,Primary bladder cancer BT010,NA,64,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T3aN0M0,NA,128.97,Yes,month
+GSM340615,Primary bladder cancer BT011,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,125.03,No,month
+GSM340616,Primary bladder cancer BT012,NA,56,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,F,TaN0M0,NA,125.27,No,month
+GSM340617,Primary bladder cancer BT013,NA,69,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,130.6,No,month
+GSM340618,Primary bladder cancer BT014,NA,75,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T4N0M0,NA,1.03,Yes,month
+GSM340619,Primary bladder cancer BT015,NA,76,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,129.67,No,month
+GSM340620,Primary bladder cancer BT016,NA,61,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T3aN2M1,NA,16.67,Yes,month
+GSM340621,Primary bladder cancer BT017,NA,45,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,127.63,No,month
+GSM340622,Primary bladder cancer BT018,NA,58,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,Yes,Yes,M,TaN0M0,NA,124.53,No,month
+GSM340623,Primary bladder cancer BT019,NA,71,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,T4N2M1,NA,3.13,No,month
+GSM340624,Primary bladder cancer BT020,NA,79,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,65.93,No,month
+GSM340625,Primary bladder cancer BT021,NA,75,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,3.23,No,month
+GSM340626,Primary bladder cancer BT022,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,120.6,No,month
+GSM340627,Primary bladder cancer BT023,NA,68,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,22.67,No,month
+GSM340628,Primary bladder cancer BT024,NA,56,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3aN0M0,NA,120.5,Yes,month
+GSM340629,Primary bladder cancer BT025,NA,82,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,50.43,No,month
+GSM340630,Primary bladder cancer BT026,NA,38,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,Yes,NA,M,T2N0M0,NA,66.3,Yes,month
+GSM340631,Primary bladder cancer BT027,NA,55,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,120.17,No,month
+GSM340632,Primary bladder cancer BT028,NA,53,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,120.6,No,month
+GSM340633,Primary bladder cancer BT029,NA,64,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3bN0M0,NA,14.57,Yes,month
+GSM340634,Primary bladder cancer BT030,NA,68,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T3aN0M0,NA,115.83,Yes,month
+GSM340635,Primary bladder cancer BT031,NA,65,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,Yes,M,TaN0M0,NA,106.6,No,month
+GSM340636,Primary bladder cancer BT032,NA,65,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,T2N0M0,NA,121.2,Yes,month
+GSM340637,Primary bladder cancer BT033,NA,74,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,98,No,month
+GSM340638,Primary bladder cancer BT034,NA,67,primary bladder cancer,death,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,67.03,No,month
+GSM340639,Primary bladder cancer BT035,NA,61,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,99.73,No,month
+GSM340640,Primary bladder cancer BT036,NA,78,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,TaN0M0,NA,50.3,No,month
+GSM340641,Primary bladder cancer BT037,NA,52,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,98.23,No,month
+GSM340642,Primary bladder cancer BT038,NA,65,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,106.03,No,month
+GSM340643,Primary bladder cancer BT039,NA,69,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,95.3,No,month
+GSM340644,Primary bladder cancer BT040,NA,64,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,80.43,No,month
+GSM340645,Primary bladder cancer BT041,NA,69,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,35.7,Yes,month
+GSM340646,Primary bladder cancer BT042,NA,75,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,51.77,No,month
+GSM340647,Primary bladder cancer BT043,NA,53,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,92.83,No,month
+GSM340648,Primary bladder cancer BT044,NA,58,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,90.73,No,month
+GSM340649,Primary bladder cancer BT045,NA,35,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,90.47,No,month
+GSM340650,Primary bladder cancer BT046,NA,43,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,86.07,No,month
+GSM340651,Primary bladder cancer BT047,NA,66,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,134.97,No,month
+GSM340652,Primary bladder cancer BT048,NA,83,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,65.93,No,month
+GSM340653,Primary bladder cancer BT049,NA,73,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3bN0M0,NA,25.83,No,month
+GSM340654,Primary bladder cancer BT050,NA,51,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T3bN2M0,NA,10.27,Yes,month
+GSM340655,Primary bladder cancer BT051,NA,88,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,No,F,T1N0M0,NA,85.43,No,month
+GSM340656,Primary bladder cancer BT052,NA,77,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,3.17,No,month
+GSM340657,Primary bladder cancer BT053,NA,79,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,83.63,No,month
+GSM340658,Primary bladder cancer BT054,NA,79,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,83.63,No,month
+GSM340659,Primary bladder cancer BT055,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,70.93,No,month
+GSM340660,Primary bladder cancer BT056,NA,62,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,81.63,No,month
+GSM340661,Primary bladder cancer BT057,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,80.2,No,month
+GSM340662,Primary bladder cancer BT058,NA,73,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,78.83,No,month
+GSM340663,Primary bladder cancer BT059,NA,79,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,78.73,No,month
+GSM340664,Primary bladder cancer BT060,NA,59,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,TaN0M0,NA,70.73,No,month
+GSM340665,Primary bladder cancer BT061,NA,78,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N1M1,NA,8.7,No,month
+GSM340666,Primary bladder cancer BT062,NA,59,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,75.33,No,month
+GSM340667,Primary bladder cancer BT063,NA,38,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,75.7,No,month
+GSM340668,Primary bladder cancer BT064,NA,49,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,75.13,No,month
+GSM340669,Primary bladder cancer BT065,NA,62,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,75.13,No,month
+GSM340670,Primary bladder cancer BT066,NA,61,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,74.17,No,month
+GSM340671,Primary bladder cancer BT067,NA,74,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,16.23,No,month
+GSM340672,Primary bladder cancer BT068,NA,72,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3bN0M0,NA,15.1,No,month
+GSM340673,Primary bladder cancer BT069,NA,60,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,Yes,NA,F,T2N0M0,NA,11.23,Yes,month
+GSM340674,Primary bladder cancer BT070,NA,60,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,69.43,No,month
+GSM340675,Primary bladder cancer BT071,NA,82,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,25.03,No,month
+GSM340676,Primary bladder cancer BT072,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,67.07,No,month
+GSM340677,Primary bladder cancer BT073,NA,64,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,65.23,No,month
+GSM340678,Primary bladder cancer BT074,NA,73,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T4N0M0,NA,11.97,No,month
+GSM340679,Primary bladder cancer BT075,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,62,No,month
+GSM340680,Primary bladder cancer BT076,NA,77,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,61.33,No,month
+GSM340681,Primary bladder cancer BT077,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,60.9,No,month
+GSM340682,Primary bladder cancer BT078,NA,79,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,60.2,No,month
+GSM340683,Primary bladder cancer BT079,NA,48,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,59.6,No,month
+GSM340684,Primary bladder cancer BT080,NA,76,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T4N0M0,NA,10.4,Yes,month
+GSM340685,Primary bladder cancer BT081,NA,66,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,59.87,No,month
+GSM340686,Primary bladder cancer BT082,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,59,No,month
+GSM340687,Primary bladder cancer BT083,NA,68,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,58.73,No,month
+GSM340688,Primary bladder cancer BT084,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,46.17,No,month
+GSM340689,Primary bladder cancer BT085,NA,80,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,F,T1N0M0,NA,58.43,No,month
+GSM340690,Primary bladder cancer BT086,NA,68,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,58.07,No,month
+GSM340691,Primary bladder cancer BT087,NA,32,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,57.63,No,month
+GSM340692,Primary bladder cancer BT088,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,36.3,No,month
+GSM340693,Primary bladder cancer BT089,NA,80,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,T2N0M0,NA,56.47,No,month
+GSM340694,Primary bladder cancer BT090,NA,67,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,55.5,No,month
+GSM340695,Primary bladder cancer BT091,NA,37,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,52.97,No,month
+GSM340696,Primary bladder cancer BT092,NA,71,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3N1M0,NA,11.5,No,month
+GSM340697,Primary bladder cancer BT093,NA,60,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3N0M0,NA,17.87,No,month
+GSM340698,Primary bladder cancer BT094,NA,74,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,28.53,No,month
+GSM340699,Primary bladder cancer BT095,NA,80,primary bladder cancer,death,NA,NA,NA,low,NA,No,non-muscle invasive,1,Yes,Yes,M,T1N0M0,NA,17.63,No,month
+GSM340700,Primary bladder cancer BT096,NA,85,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T2N0M0,NA,15.4,No,month
+GSM340701,Primary bladder cancer BT097,NA,59,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,T3bN0M0,NA,48.43,Yes,month
+GSM340702,Primary bladder cancer BT098,NA,65,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,F,T4N1M1,NA,4.5,Yes,month
+GSM340703,Primary bladder cancer BT099,NA,57,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,TaN0M0,NA,47.5,No,month
+GSM340704,Primary bladder cancer BT100,NA,73,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N1M0,NA,5.23,No,month
+GSM340705,Primary bladder cancer BT101,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T3bN0M0,NA,45.6,Yes,month
+GSM340706,Primary bladder cancer BT102,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,45.13,No,month
+GSM340707,Primary bladder cancer BT103,NA,64,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,TaN0M0,NA,43.5,No,month
+GSM340708,Primary bladder cancer BT104,NA,68,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,44.1,No,month
+GSM340709,Primary bladder cancer BT105,NA,59,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,F,T2N0M0,NA,5.93,No,month
+GSM340710,Primary bladder cancer BT106,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,31.53,No,month
+GSM340711,Primary bladder cancer BT107,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,F,T1N0M0,NA,41.8,No,month
+GSM340712,Primary bladder cancer BT108,NA,79,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N2M0,NA,6.5,No,month
+GSM340713,Primary bladder cancer BT109,NA,44,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,41.07,No,month
+GSM340714,Primary bladder cancer BT110,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2bN0M0,NA,39.77,No,month
+GSM340715,Primary bladder cancer BT111,NA,61,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,38.97,No,month
+GSM340716,Primary bladder cancer BT113,NA,80,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,F,T1N0M0,NA,31.97,No,month
+GSM340717,Primary bladder cancer BT114,NA,57,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,37.3,No,month
+GSM340718,Primary bladder cancer BT115,NA,55,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2aN0M0,NA,36.83,Yes,month
+GSM340719,Primary bladder cancer BT116,NA,52,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,36.57,No,month
+GSM340720,Primary bladder cancer BT117,NA,50,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T2aN0M0,NA,28.1,No,month
+GSM340721,Primary bladder cancer BT118,NA,78,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T2N0M0,NA,3.93,No,month
+GSM340722,Primary bladder cancer BT119,NA,71,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,F,T1N0M0,NA,23.53,No,month
+GSM340723,Primary bladder cancer BT120,NA,81,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,F,T3N0M0,NA,15.1,No,month
+GSM340724,Primary bladder cancer BT121,NA,43,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,TaN0M0,NA,34.87,No,month
+GSM340725,Primary bladder cancer BT122,NA,80,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T3N1M0,NA,34.23,No,month
+GSM340726,Primary bladder cancer BT123,NA,47,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,33.7,No,month
+GSM340727,Primary bladder cancer BT124,NA,71,primary bladder cancer,death,NA,NA,NA,low,NA,NA,muscle invasive,1,Yes,NA,M,T4aN0M0,NA,11.07,Yes,month
+GSM340728,Primary bladder cancer BT125,NA,73,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,F,T3N0M0,NA,5.77,No,month
+GSM340729,Primary bladder cancer BT126,NA,87,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,33.07,No,month
+GSM340730,Primary bladder cancer BT127,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,TaN0M0,NA,32.87,No,month
+GSM340731,Primary bladder cancer BT128,NA,82,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,9.23,No,month
+GSM340732,Primary bladder cancer BT129,NA,78,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,F,T3N1M0,NA,7.1,No,month
+GSM340733,Primary bladder cancer BT130,NA,60,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,17.13,No,month
+GSM340734,Primary bladder cancer BT131,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,23.57,No,month
+GSM340735,Primary bladder cancer BT132,NA,72,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,30.7,No,month
+GSM340736,Primary bladder cancer BT133,NA,68,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,30.1,No,month
+GSM340737,Primary bladder cancer BT134,NA,64,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,29.73,No,month
+GSM340738,Primary bladder cancer BT135,NA,83,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,15.43,No,month
+GSM340739,Primary bladder cancer BT136,NA,66,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,29.37,No,month
+GSM340740,Primary bladder cancer BT137,NA,68,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,17.67,No,month
+GSM340741,Primary bladder cancer BT138,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,28.47,No,month
+GSM340742,Primary bladder cancer BT139,NA,45,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,Yes,F,T1N0M0,NA,23.9,No,month
+GSM340743,Primary bladder cancer BT140,NA,84,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,23.57,No,month
+GSM340744,Primary bladder cancer BT141,NA,72,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,13.93,No,month
+GSM340745,Primary bladder cancer BT142,NA,72,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,F,TaN3M1,NA,2.13,No,month
+GSM340746,Primary bladder cancer BT143,NA,66,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,22.27,No,month
+GSM340747,Primary bladder cancer BT144,NA,74,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T4N0M1,NA,6.87,Yes,month
+GSM340748,Primary bladder cancer BT145,NA,63,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,Yes,M,T1N0M0,NA,20.83,No,month
+GSM340749,Primary bladder cancer BT146,NA,58,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,21.63,No,month
+GSM340750,Primary bladder cancer BT147,NA,70,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,TaN0M0,NA,21.4,No,month
+GSM340751,Primary bladder cancer BT148,NA,40,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,57.87,No,month
+GSM340752,Primary bladder cancer BT149,NA,80,primary bladder cancer,survival,NA,NA,NA,high,NA,No,non-muscle invasive,1,No,No,F,T1N0M0,NA,21.23,No,month
+GSM340753,Primary bladder cancer BT150,NA,62,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,F,TaN0M0,NA,21.23,No,month
+GSM340754,Primary bladder cancer BT151,NA,24,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,20.47,No,month
+GSM340755,Primary bladder cancer BT152,NA,45,primary bladder cancer,survival,NA,NA,NA,high,NA,Yes,non-muscle invasive,1,No,No,M,T1N0M0,NA,20.4,No,month
+GSM340756,Primary bladder cancer BT153,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,Yes,non-muscle invasive,1,No,No,F,TaN0M0,NA,19,No,month
+GSM340757,Primary bladder cancer BT154,NA,65,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T2N0M0,NA,79.3,Yes,month
+GSM340758,Primary bladder cancer BT155,NA,59,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,F,T4N1M0,NA,15.47,Yes,month
+GSM340759,Primary bladder cancer BT156,NA,64,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N1M1,NA,26.43,Yes,month
+GSM340760,Primary bladder cancer BT157,NA,70,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T4N0M0,NA,13.27,Yes,month
+GSM340761,Primary bladder cancer BT158,NA,66,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,Yes,NA,M,T3NxM0,NA,6.4,Yes,month
+GSM340762,Primary bladder cancer BT159,NA,77,primary bladder cancer,death,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T4aN0M0,NA,10.67,No,month
+GSM340763,Primary bladder cancer BT160,NA,67,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T2N2M0,NA,18.13,Yes,month
+GSM340764,Primary bladder cancer BT161,NA,51,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,No,NA,M,T3aN0M0,NA,15.37,Yes,month
+GSM340765,Primary bladder cancer BT162,NA,42,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T4N2M0,NA,11.8,Yes,month
+GSM340766,Primary bladder cancer BT163,NA,72,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2N0M0,NA,10.87,No,month
+GSM340767,Primary bladder cancer BT164,NA,70,primary bladder cancer,survival,NA,NA,NA,low,NA,NA,muscle invasive,1,Yes,NA,F,T2N0M0,NA,10.03,No,month
+GSM340768,Primary bladder cancer BT165,NA,54,primary bladder cancer,survival,NA,NA,NA,low,NA,No,non-muscle invasive,1,No,No,M,T1N0M0,NA,6.73,No,month
+GSM340769,Primary bladder cancer BT166,NA,62,primary bladder cancer,survival,NA,NA,NA,high,NA,NA,muscle invasive,1,No,NA,M,T2aN0M0,NA,5.3,No,month
+GSM340770,Recurrent bladder tumor BT034.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340771,Recurrent bladder tumor BT036.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340772,Recurrent bladder tumor BT036.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340773,Recurrent bladder tumor BT041.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340774,Recurrent bladder tumor BT042.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340775,Recurrent bladder tumor BT047.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340776,Recurrent bladder tumor BT047.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340777,Recurrent bladder tumor BT047.3,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340778,Recurrent bladder tumor BT047.4,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340779,Recurrent bladder tumor BT053.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340780,Recurrent bladder tumor BT057.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340781,Recurrent bladder tumor BT060.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340782,Recurrent bladder tumor BT060.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340783,Recurrent bladder tumor BT062.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340784,Recurrent bladder tumor BT062.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340785,Recurrent bladder tumor BT063.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340786,Recurrent bladder tumor BT067.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340787,Recurrent bladder tumor BT067.2,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340788,Recurrent bladder tumor BT067.3,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340789,Recurrent bladder tumor BT069.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340790,Recurrent bladder tumor BT071.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340791,Recurrent bladder tumor BT083.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
+GSM340792,Recurrent bladder tumor BT095.1,NA,NA,recurrent non-muscle invasive tumor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,month
